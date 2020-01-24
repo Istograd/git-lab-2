@@ -2,7 +2,7 @@
          *        File: git-lab-program.cc
          *      Author: Trent Sherrod
          *        Date: Jan 24th 2020
-         * Description: Simple program being used to show how to use git. 
+         * Description: Simple program to show me how to use git. 
          */
 
         #include <iostream>
